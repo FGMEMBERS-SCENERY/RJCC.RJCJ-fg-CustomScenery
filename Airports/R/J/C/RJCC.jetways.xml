@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<jetway>
+    <model type="string">glass</model>
+    <gate type="string">66</gate>
+    <door type="int">0</door>
+    <airline type="string">None</airline>
+    <latitude-deg type="double">42.78701774</latitude-deg>
+    <longitude-deg type="double">141.6752258</longitude-deg>
+    <elevation-m type="double">-6.332031249</elevation-m>
+    <heading-deg type="double">276</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">4</jetway-extension-m>
+      <jetway-heading-deg type="double">-49</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">-38</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+</PropertyList>
