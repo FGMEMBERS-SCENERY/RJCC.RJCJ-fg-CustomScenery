@@ -7,3 +7,8 @@ Thanks to Israel Hernandez (IAHM-COL) for support, assistance, and bugfixing.
 
 Cheers!
 ~ Legoboyvdlp
+
+############################## Installing ##############################
+Add the folder inside this folder called 'scenery' to $FG_SCENERY in either the command line, the first page of FGRUN, or your favorite launcher.
+As such:
+  --fg-scenery=C:/Users//Documents/GitHub/RJCC.RJCJ-fg-CustomScenery/Scenery
