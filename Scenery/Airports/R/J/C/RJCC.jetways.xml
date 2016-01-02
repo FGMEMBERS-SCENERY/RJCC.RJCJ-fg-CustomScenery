@@ -24,7 +24,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78466771</latitude-deg>
     <longitude-deg type="double">141.679735</longitude-deg>
-    <elevation-m type="double">-6.33300781</elevation-m>
+    <elevation-m type="double">-6.333007812</elevation-m>
     <heading-deg type="double">28</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">0</jetway-extension-m>
@@ -40,7 +40,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78506378</latitude-deg>
     <longitude-deg type="double">141.6806673</longitude-deg>
-    <elevation-m type="double">-6.333007813</elevation-m>
+    <elevation-m type="double">-6.332031251</elevation-m>
     <heading-deg type="double">40</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">8</jetway-extension-m>
@@ -56,7 +56,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78483544</latitude-deg>
     <longitude-deg type="double">141.6801674</longitude-deg>
-    <elevation-m type="double">-6.333007813</elevation-m>
+    <elevation-m type="double">-6.333007811</elevation-m>
     <heading-deg type="double">26.545456</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">6.421488</jetway-extension-m>
@@ -72,7 +72,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78525513</latitude-deg>
     <longitude-deg type="double">141.6811821</longitude-deg>
-    <elevation-m type="double">-6.421063343</elevation-m>
+    <elevation-m type="double">-6.332303512</elevation-m>
     <heading-deg type="double">36</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">5</jetway-extension-m>
@@ -88,7 +88,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78525278</latitude-deg>
     <longitude-deg type="double">141.6811846</longitude-deg>
-    <elevation-m type="double">-6.333007811</elevation-m>
+    <elevation-m type="double">-6.332031249</elevation-m>
     <heading-deg type="double">36</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">5</jetway-extension-m>
@@ -104,7 +104,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78565081</latitude-deg>
     <longitude-deg type="double">141.6817005</longitude-deg>
-    <elevation-m type="double">-6.333007811</elevation-m>
+    <elevation-m type="double">-6.33203125</elevation-m>
     <heading-deg type="double">48</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">5</jetway-extension-m>
@@ -120,7 +120,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78600491</latitude-deg>
     <longitude-deg type="double">141.6820132</longitude-deg>
-    <elevation-m type="double">-6.333007812</elevation-m>
+    <elevation-m type="double">-6.333007813</elevation-m>
     <heading-deg type="double">88</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">5</jetway-extension-m>
@@ -136,7 +136,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.7860038</latitude-deg>
     <longitude-deg type="double">141.6820111</longitude-deg>
-    <elevation-m type="double">-6.679532635</elevation-m>
+    <elevation-m type="double">-6.459559323</elevation-m>
     <heading-deg type="double">88</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">9</jetway-extension-m>
@@ -152,7 +152,7 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78653142</latitude-deg>
     <longitude-deg type="double">141.6822769</longitude-deg>
-    <elevation-m type="double">-6.375878528</elevation-m>
+    <elevation-m type="double">-6.333984376</elevation-m>
     <heading-deg type="double">72</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">8</jetway-extension-m>
@@ -168,8 +168,8 @@
     <airline type="string">None</airline>
     <latitude-deg type="double">42.7865301</latitude-deg>
     <longitude-deg type="double">141.6822736</longitude-deg>
-    <elevation-m type="double">-6.333984375</elevation-m>
-    <heading-deg type="double">76</heading-deg>
+    <elevation-m type="double">-7.269673345</elevation-m>
+    <heading-deg type="double">72</heading-deg>
     <initial-position>
       <jetway-extension-m type="double">6</jetway-extension-m>
       <jetway-heading-deg type="double">-38</jetway-heading-deg>
