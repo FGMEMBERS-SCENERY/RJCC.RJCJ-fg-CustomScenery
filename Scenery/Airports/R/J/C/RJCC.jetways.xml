@@ -147,7 +147,7 @@
   </jetway>
   <jetway n="9">
     <model type="string">generic</model>
-    <gate type="string">13</gate>
+    <gate type="string">12</gate>
     <door type="int">1</door>
     <airline type="string">None</airline>
     <latitude-deg type="double">42.78653142</latitude-deg>
@@ -163,7 +163,7 @@
   </jetway>
   <jetway n="10">
     <model type="string">generic</model>
-    <gate type="string">13</gate>
+    <gate type="string">12</gate>
     <door type="int">0</door>
     <airline type="string">None</airline>
     <latitude-deg type="double">42.7865301</latitude-deg>
