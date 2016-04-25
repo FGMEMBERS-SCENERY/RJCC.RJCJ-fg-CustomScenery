@@ -13,11 +13,11 @@ OBJECT_SHARED Models/lib/chariot3.ac 141.68149 42.79399 20 268.36
 OBJECT_SHARED Models/lib/chariot5.ac 141.68133 42.79408 20 277.93
 OBJECT_SHARED Models/lib/chariot5.ac 141.68127 42.79407 20 278.58
 OBJECT_SHARED Models/lib/chariot3curve.ac 141.68099 42.79393 20 87.99
-OBJECT_SHARED Models/Airport/fedextruck.xml 141.68163 42.79493 20 277.47
-OBJECT_SHARED Models/Airport/fedextruck.xml 141.68154 42.79492 20 277.24
-OBJECT_SHARED Models/Airport/fedextruck.xml 141.68179 42.79513 20 186.87
-OBJECT_SHARED Models/Airport/fedextruck.xml 141.68159 42.79511 20 188.92
-OBJECT_SHARED Models/Airport/fedextruck.xml 141.68138 42.79509 20 188.26
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 141.68163 42.79493 20 277.47
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 141.68154 42.79492 20 277.24
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 141.68179 42.79513 20 186.87
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 141.68159 42.79511 20 188.92
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml 141.68138 42.79509 20 188.26
 OBJECT_SHARED Models/Transport/Norberttruck.xml 141.68135 42.79489 20 274.2
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.68219 42.78792 20 330.06
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 141.68192 42.78845 20 339.96
